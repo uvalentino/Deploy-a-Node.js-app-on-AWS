@@ -1,4 +1,5 @@
 # Deploy-a-Node.js-app-on-AWS
+![node](https://github.com/uvalentino/Deploy-a-Node.js-app-on-AWS/assets/125161023/4b164ef1-6b46-4a5b-be11-1d9bc0a5a529)
 
 ## Step1: Setup an AWS EC2 instance
 1. Launch an EC2 instance.
