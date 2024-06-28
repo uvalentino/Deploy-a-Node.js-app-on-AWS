@@ -31,6 +31,7 @@
 2. Locate the Security Group: Find the security group associated with your EC2 instance. Click on the security group name to select it.
 3. Edit Inbound Rules: In the "Inbound rules" tab, you'll see a list of existing inbound rules. Click on the "Edit inbound rules" button.
 4. Add a New Rule: Click on the "Add rule" button to add a new inbound rule. Configure it as follows.
+![rule](https://github.com/uvalentino/Deploy-a-Node.js-app-on-AWS/assets/125161023/3cc83d81-506e-45c2-836d-5152e27b9580)
 
 5. Save the Rule: Click on the "Save rules" button to apply the changes.
 
